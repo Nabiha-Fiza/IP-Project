@@ -81,7 +81,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="admin_login.php">Admin</a>
               <a href="log_in.php">Client</a>
               <a href="log_in1.php">Vendor</a>
             </div>

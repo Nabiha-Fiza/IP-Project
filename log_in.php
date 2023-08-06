@@ -122,10 +122,7 @@ else if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <input type="password" name="password">
                 <label>Password</label>
             </div>
-            <div class="remember-forgot">
-                <label><input type="checkbox">Remember me</label>
-                <a href="#">Forgot Password</a>
-            </div>
+            
             <!-- <button type="submit" class="button"><a href="Home.html">Sign in</a></button> -->
             <input type="submit" name="login" value="Sign in">
             <div class="login-signup">

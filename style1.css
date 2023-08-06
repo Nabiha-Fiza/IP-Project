@@ -125,6 +125,29 @@ body{
     color: #162938;
     line-height: 57px;
 }
+.remember-forgot{
+    font-size: 1.3em;
+    color: #162938;
+    font-weight: 650;
+    margin: -15px 0 15px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.remember-forgot label input{
+    accent-color: #162938;
+    margin-right: 3px;
+
+}
+.remember-forgot a{
+    color: #162938;
+    text-decoration: none;
+
+}
+.remember-forgot a:hover{
+    text-decoration: underline;
+}
 
 .button{
     width: 100%;
